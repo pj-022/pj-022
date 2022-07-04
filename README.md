@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pj-022
 - 👀 I’m interested in Networking/CyberSec and Web Development
-- 🌱 I’m currently self-learning MERN stack and preparing for Security+ Certificate
+- 🌱 I’m currently preparing for Security+ Certificate
 - 💞️ I dropped out of college to focus on my interest specific field and keep learning on my own
 
 <!---
